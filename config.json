@@ -215,12 +215,12 @@
         "id": "widgets_PopupPanel_Widget_20"
       },
       {
-        "name": "Bookmark",
+        "name": "Print",
         "version": "2.15",
-        "uri": "widgets/Bookmark/Widget",
-        "config": "configs/Bookmark/config_widgets_Bookmark_Widget_21.json",
+        "uri": "widgets/Print/Widget",
+        "config": "configs/Print/config_widgets_Print_Widget_33.json",
         "index": 6,
-        "id": "widgets_Bookmark_Widget_21"
+        "id": "widgets_Print_Widget_33"
       }
     ],
     "groups": []
