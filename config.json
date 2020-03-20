@@ -266,15 +266,6 @@
         "config": "configs/PopupPanel/config_widgets_PopupPanel_Widget_20.json",
         "index": 4,
         "id": "widgets_PopupPanel_Widget_20"
-      },
-      {
-        "name": "eBookmark",
-        "version": "2.5",
-        "IsController": false,
-        "uri": "widgets/eBookmark/Widget",
-        "config": "configs/eBookmark/config_widgets_eBookmark_Widget_21.json",
-        "index": 6,
-        "id": "widgets_eBookmark_Widget_21"
       }
     ],
     "groups": []
